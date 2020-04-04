@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GithubUpload Test</string>
+    <string name="main_text">This is a test to upload this project onto Github.</string>
+    <string name="Button_text">Click Me</string>
+</resources>
